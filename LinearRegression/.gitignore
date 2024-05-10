@@ -1,0 +1,5 @@
+# Ignore checkpoints
+.ipynb_checkpoints
+
+# Ignore virtual docs
+.virtual_documents
