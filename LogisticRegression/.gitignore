@@ -1,0 +1,3 @@
+# Ignore files matching any of these patterns 
+.ipynb_checkpoints
+.virtual_documents
