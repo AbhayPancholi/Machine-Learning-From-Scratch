@@ -1,4 +1,5 @@
 #Ignore these files 
 .virtual_documents
 .ipynb_checkpoints
-__pycache__
+__pycache__/
+
