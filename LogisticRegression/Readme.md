@@ -27,19 +27,16 @@ The logistic Regression is implemented and applied to two different datasets.
 
 ## 1 - Packages
 
-First, let's run the cell below to import all the packages that you will need during this assignment.
+First, all packages are imported that are needed.
 
 - [numpy](www.numpy.org) is the fundamental package for scientific computing with Python.
-- [matplotlib](http://matplotlib.org) is a famous library to plot graphs in Python.
-- `utils.py` contains helper functions for this assignment. You do not need to modify code in this file.
+- [matplotlib](http://matplotlib.org) is a famous library for plotting graphs in Python.
+- `utils.py` contains helper functions. You do not need to modify code in this file.
 
-<a name="2"></a>
 
 ## 2 - Logistic Regression
 
-In this part of the exercise, you will build a logistic regression model to predict whether a student gets admitted into a university.
-
-<a name="2.1"></a>
+In this part, a logistic regression model is built to predict whether a student gets admitted into a university.
 
 ### 2.1 Problem Statement
 
