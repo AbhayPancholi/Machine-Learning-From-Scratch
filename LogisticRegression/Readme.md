@@ -1,6 +1,6 @@
 # Logistic Regression
 
-In this exercise, you will implement logistic regression and apply it to two different datasets.
+The logistic Regression is implemented and applied to two different datasets.
 
 # Outline
 
@@ -24,7 +24,6 @@ In this exercise, you will implement logistic regression and apply it to two dif
   - [ 3.7 Plotting the decision boundary](#3.7)
   - [ 3.8 Evaluating regularized logistic regression model](#3.8)
 
-<a name="1"></a>
 
 ## 1 - Packages
 
